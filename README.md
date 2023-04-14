@@ -11,3 +11,5 @@ Buat database
 ✅buat tabel author/penulis
 ✅admin
 ✅user
+✅kasikeluar database
+✅import database
